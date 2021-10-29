@@ -1,12 +1,12 @@
 # THP - The Gossip Project
 
-
 - Faire un `bundle install`
 - Ensuite `rails db:migrate`
 - Afin de vérifier que les migrations sont up : `rails db:migrate:status`
 - Ensuite `rails db:seed`
 - Enfin ouvrir la console `rails c`
 
+![Gossip_Diagram](https://user-images.githubusercontent.com/91549636/139358552-0c804350-5596-46f2-8bf8-42b1139e71b3.jpg)
 
 2.3.1 Le pitch
 Allez, on va poser les bases de notre fameux Gossip Project pour le transcrire en Rails. Et comme je te l'ai expliqué, la première étape est la modélisation de sa BDD !
